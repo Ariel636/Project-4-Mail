@@ -1,0 +1,8 @@
+*.map
+.cache 
+*.py[cod]
+
+*.pyc
+*/*/*/__pycache__/
+*/*/__pycache__/
+*/__pycache__/
