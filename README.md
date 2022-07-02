@@ -1,2 +1,1 @@
-# Project-4-Mail
-"Mail" project for a Harvard course
+To make the site work, run Django first
